@@ -2,6 +2,8 @@
 
 This code is an extension of the code in aexbrown/Crawl_Model which uses the predicted rotation of the worm to update the motion in each frame.  It can thus be used to predict worm locomotion based on eigenworm amplitudes over time.
 
+**Some of the functions used in the demo can be found in aexbrown/Motif_Analysis.**
+
 All the code in the modes2movement repository is available under the MIT license.
 <br><br><br>
 
